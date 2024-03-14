@@ -33,3 +33,4 @@ Broiler I/O Port and MMIO Resource layout
 | Broiler-Asynchronous-mmio-PCI.c     |          Random            |     1008:1991     |
 | Broiler-MMIO-base.c                 |  [0xF0000000, 0xF0004000]  |       None        |
 | Broiler-DMA-BUF-base.c              |          Random            |     1004:1991     |
+| GPU(VRAM on BAR)                    |          Random            |     1010:1991     |
